@@ -10,7 +10,7 @@ The application will take in results from users' surveys then compare their resu
 
 You will use Express to handle routing and will deploy your application on Heroku so others can fill it out.
 
-For a demo of this application see: https://friend-finder.herokuapp.com/
+To try this application see:  https://safe-citadel-90845.herokuapp.com/
 
 Submission Requirements:
 
